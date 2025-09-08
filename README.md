@@ -66,7 +66,7 @@
 <img src="https://www.vectorlogo.zone/logos/google_apps_script/google_apps_script-icon.svg" height="40" alt="googleapps_script logo" />
 
 <!-- n8n -->
-<img src="https://n8n.io/logo.svg" height="40" alt="n8n logo" />
+<img src="https://n8n.io/n8n-logo.png" height="40" alt="n8n logo" />
 
 <!-- Zapier -->
 <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" height="40" alt="zapier logo" />
