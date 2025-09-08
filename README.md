@@ -61,6 +61,18 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
 </p>
 
+<!-- Google Apps Script -->
+<h3 align="left"> Automation </h3>
+<img src="https://www.vectorlogo.zone/logos/google_apps_script/google_apps_script-icon.svg" height="40" alt="googleapps_script logo" />
+
+<!-- n8n -->
+<img src="https://n8n.io/logo.svg" height="40" alt="n8n logo" />
+
+<!-- Zapier -->
+<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" height="40" alt="zapier logo" />
+
+<!-- Make (formerly Integromat) -->
+<img src="https://www.vectorlogo.zone/logos/integrately/integrately-icon.svg" height="40" alt="make integromat logo" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pruthvirahul&show_icons=true&locale=en&layout=compact" alt="pruthvirahul" /></p>
 
