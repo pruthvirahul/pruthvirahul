@@ -53,26 +53,18 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 
-  <h3 align="left">AI / ML</h3>
+  <h3>AI / ML</h3>
 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.png" alt="selenium" width="40" height="40"/></a>
 </p>
 
 <!-- Google Apps Script -->
-<h3 align="left"> Automation </h3>
-<img src="https://www.vectorlogo.zone/logos/google_apps_script/google_apps_script-icon.svg" height="40" alt="googleapps_script logo" />
+<h3> Automation </h3>
 
-<!-- n8n -->
-<img src="https://n8n.io/n8n-logo.png" height="40" alt="n8n logo" />
-
-<!-- Zapier -->
-<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" height="40" alt="zapier logo" />
-
-<!-- Make (formerly Integromat) -->
-<img src="https://www.vectorlogo.zone/logos/integrately/integrately-icon.svg" height="40" alt="make integromat logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" height="40" alt="googleapps_script logo" />  <img src="https://n8n.io/n8n-logo.png" height="40" alt="n8n logo" /><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" height="45" alt="zapier logo" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pruthvirahul&show_icons=true&locale=en&layout=compact" alt="pruthvirahul" /></p>
 
